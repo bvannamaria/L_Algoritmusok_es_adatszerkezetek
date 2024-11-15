@@ -9,6 +9,6 @@ DOCTYPE html>
 
 </head>
 <body>
-  <h1>Round trip</h1>
+  <h1>4.feladat- Gráf</h1>
   <a href="
 </body>
