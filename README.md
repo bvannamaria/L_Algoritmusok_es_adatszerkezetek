@@ -22,17 +22,17 @@
     </ul>
     <h2>2.feladat: Rekurzióval megoldható feladatok- Christmas Party (CSES)</h2>
     <ul>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Christmas_Party.pdf"> Feladat</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Christmas_Party_megoldas_lepesei.pdf">Leírás</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/karacsonyi_parti.py">Program</a></li>
-        <li><hr><a href="https://cses.fi/problemset/result/11176283/">Teszt</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Christmas_Party.pdf"> Feladat</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Christmas_Party_megoldas_lepesei.pdf">Leírás</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/karacsonyi_parti.py">Program</a></li>
+        <li><a href="https://cses.fi/problemset/result/11176283/">Teszt</a></li>
     </ul>
     <h2>3.feladat: Dinamikus programozási feladat- Projects(CSES)</h2>
     <ul>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Projects.pdf">Feladat</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Projects_lepesei.pdf">Leírás</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/projects.py">Program</a></li>
-        <li><hr><a href="https://cses.fi/problemset/result/11175601/">Teszt</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Projects.pdf">Feladat</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Projects_lepesei.pdf">Leírás</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/projects.py">Program</a></li>
+        <li><a href="https://cses.fi/problemset/result/11175601/">Teszt</a></li>
     </ul>
     <h2>4.feladat: Dinamikus programozási feladat- Round Trip(CSES)</h2>
     <ul>
