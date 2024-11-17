@@ -36,9 +36,9 @@
     </ul>
     <h2>4.feladat: Dinamikus programozási feladat- Round Trip(CSES)</h2>
     <ul>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Round%20trip%20feladatle%C3%ADr%C3%A1s.pdf">Feladat</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Round%20Trip-%20program%20magyar%C3%A1zat.pdf">Leírás</a></li>
-        <li><hr><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/round_trip.py">Program</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Round%20trip%20feladatle%C3%ADr%C3%A1s.pdf">Feladat</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/Round%20Trip-%20program%20magyar%C3%A1zat.pdf">Leírás</a></li>
+        <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/round_trip.py">Program</a></li>
         <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/tests%20(5).zip">Teszt</a></li>
     </ul>
     <h2>K feladat- OKTV- 2017/2018. 2.forduló 2.feladat- Virágok(MESTER)</h2>
@@ -46,7 +46,7 @@
         <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/viragok_feladat.pdf">Feladat</a></li>
         <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/viragok_feladat_lepesei.pdf">Leírás</a></li>
         <li><a href="https://github.com/bvannamaria/L_Algoritmusok_es_adatszerkezetek/blob/main/viragok2.py">Program</a></li>
-        <li><hr><a href="https://mester.inf.elte.hu:8181/faces/megoldom.xhtml?jfwid=5e8f71efd7fb29a321955001d79b:18">Teszt (MESTER)</a></li>
+        <li><a href="https://mester.inf.elte.hu:8181/faces/megoldom.xhtml?jfwid=5e8f71efd7fb29a321955001d79b:18">Teszt (MESTER)</a></li>
     </ul>
 
 </body>
